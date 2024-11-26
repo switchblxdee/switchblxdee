@@ -1,5 +1,6 @@
 # Hi there! 👋  
-My name is Egor, and I am a ML Engineer based in Russia, Moscow.  
+My name is Egor, and I am a ML Engineer based in Russia, Moscow.
+I love work with LLMs, VLMs and research something new in AI world!
 
 ---
 
@@ -41,8 +42,10 @@ My name is Egor, and I am a ML Engineer based in Russia, Moscow.
 ---
 
 ## Languages
-🇷🇺 Russian - Native
-🇬🇧 English - C1
+- 🇷🇺 Russian - Native
+- 🇬🇧 English - B2
+
+---
 
 > *"The computer is the most remarkable tool that we've ever come up with, and it's the equivalent of a bicycle for our minds."*  
 > — **Steve Jobs**  
