@@ -5,7 +5,7 @@ I love work with LLMs, VLMs and research something new in AI world!
 ---
 
 ## 🚀 About My Work  
-- 🌟 **SOGAZ** (Junior ML Engineer, November 2023 — Present)  
+- 🌟 **SOGAZ** (Junior ML Engineer, June 2024 — Present)  
 
 ---
 
