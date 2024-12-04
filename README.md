@@ -4,11 +4,6 @@ I love work with LLMs, VLMs and research something new in AI world!
 
 ---
 
-## 🚀 About My Work  
-- 🌟 **SOGAZ** (Junior ML Engineer, June 2024 — Present)  
-
----
-
 ## 💡 Projects  
 - **Science Helpy**: An assistant for understanding scientific articles from arXiv using **Qwen 72B** and RAG.  
 - **Majestic RP**: A module for comparing clothing names using **LaBSE** and the Levenshtein algorithm.  
