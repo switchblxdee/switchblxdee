@@ -29,7 +29,7 @@ I'm Egor Grechin, a passionate NLP/LLM Engineer from Moscow, Russia
  
 ---
 
-## 📚 Education & Courses  
+## 📚 Education  
 **National University of Science and Technology MISIS**  
 B.Sc in Intelligent Data Analysis Systems  
 
