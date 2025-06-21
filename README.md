@@ -20,13 +20,15 @@ I'm Egor Grechin, a passionate NLP/LLM Engineer from Moscow, Russia
 
 ---
 
-## 💼 Experience  
-**SOGAZ | Junior ML Engineer** *(July 2024 – Present)*  
+## 💼 Experience
+**Sber | Junior NLP Engineer** *(June 2024 – now)* 
+
+**SOGAZ | Junior NLP Engineer** *(November 2024 – June 2025)*  
 - Boosted text classification accuracy from 45% to 98% via BERT fine-tuning  
 - Built RAG system with LangChain for rapid enterprise data retrieval  
 - Developed NER pipeline for confidential data detection + encryption  
 - Customized QWEN 2.5/LLaMA 3.1 for document processing automation  
- 
+
 ---
 
 ## 📚 Education  
