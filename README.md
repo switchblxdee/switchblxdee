@@ -21,7 +21,7 @@ I'm Egor Grechin, a passionate NLP/LLM Engineer from Moscow, Russia
 ---
 
 ## 💼 Experience
-**Sber | Junior NLP Engineer** *(June 2024 – now)* 
+**Sber | Junior NLP Engineer** *(June 2025 – now)* 
 
 **SOGAZ | Junior NLP Engineer** *(November 2024 – June 2025)*  
 - Boosted text classification accuracy from 45% to 98% via BERT fine-tuning  
