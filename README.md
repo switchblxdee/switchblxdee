@@ -38,9 +38,9 @@ B.Sc in Intelligent Data Analysis Systems
 ---
 
 ## 📫 Let's Connect  
-- 📧 **Email**: [grechin3003@gmail.com](mailto:grechin3003@gmail.com)  
-- 💻 **GitHub**: [whoissleep](https://github.com/whoissleep)  
-- 📱 **Telegram**: [who_is_sleep](https://t.me/who_is_sleep)  
+- 📧 **Email**: [link](mailto:grechin3003@gmail.com)  
+- 💻 **GitHub**: [link](https://github.com/switchblxdee)  
+- 📱 **Telegram**: [link](https://t.me/langchain_community)  
 
 ---
 
